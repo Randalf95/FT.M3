@@ -12,7 +12,7 @@ module.exports = {
   problemC: problemC,
 };
 
-////
+//////
 // corre cada problema dado como un argumento del command-line para procesar
 args.forEach(function (arg) {
   let problem = module.exports["problem" + arg];
