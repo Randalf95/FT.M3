@@ -21,7 +21,7 @@ Crearemos una ruta para manejar las funcionalidades:
 -  GET favorites
 -  POST favorites
 -  DELETE favorites
-
+//
 <br />
 
 ---
