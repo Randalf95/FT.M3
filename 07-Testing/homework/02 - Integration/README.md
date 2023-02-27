@@ -116,7 +116,7 @@ Hasta ahora haz aprendido a testar una ruta GET. Te invitamos a que continues co
 
 <br />
 
----
+---//
 
 ## **💪 EXTRA CREDIT | Testing Front-End**
 
